@@ -22,6 +22,8 @@ In my free time I enjoy to study game development
   <img src="https://skillicons.dev/icons?i=laravel" height="36" alt="laravel logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=linux" height="36" alt="docker logo"  />
 </div>
 
 ### Contact
