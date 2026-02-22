@@ -1,6 +1,6 @@
 # What's up?
 
-I’m Pedro, an Information Systems undergraduate. I work as a full-stack web developer, using PHP with Laravel and TypeScript/JavaScript with Vue.jsd.
+I’m Pedro, an Information Systems undergraduate. I work as a full-stack web developer, using PHP with Laravel and TypeScript/JavaScript with Vue.js.
 
 I enjoy designing and discussing solutions with the team, bringing ideas, aligning perspectives, and aiming to deliver scalable and well-structured products.
 
