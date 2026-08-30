@@ -1,14 +1,10 @@
-# What's up?
+# About me
 
-I’m Pedro, an Information Systems undergraduate. I work as a full-stack web developer, using PHP with Laravel and TypeScript/JavaScript with Vue.js.
+I’m an Information Systems undergraduate who loves experimenting with new technologies and digging into how things work and the ideas behind them. In my free time, I enjoy creative things like drawing, reading, and game development.
 
-I enjoy designing and discussing solutions with the team, bringing ideas, aligning perspectives, and aiming to deliver scalable and well-structured products.
+Most of the projects here are academic or experimental, usually around topics I’m curious about.
 
-I’m highly motivated by new challenges, problem-solving, and learning new technologies, always pushing myself beyond the comfort zone.
-
-In my free time I enjoy to study game development
-
-### Tech Stack
+### Tech Stack (AKA things I've used professionally)
 
 <div>
   <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo"  />
