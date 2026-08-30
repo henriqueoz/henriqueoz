@@ -20,6 +20,12 @@ Most of the projects here are academic or experimental, usually around topics Iâ
   <img src="https://skillicons.dev/icons?i=docker" height="36" alt="docker logo"  />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="docker logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgres logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=redis" height="36" alt="redis logo"  />
+  <img width="4" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="36" alt="nginx logo"  />
 </div>
 
 ### Contact
